@@ -2,4 +2,6 @@
 Performing Sentiment analysis on streaming tweets
 
 
-https://pythonprogramming.net/twitter-stream-sentiment-analysis-python/
+1. https://pythonprogramming.net/twitter-stream-sentiment-analysis-python/
+2. https://pythonprogramming.net/twitter-sentiment-analysis-gui-dash-python/
+3. https://pythonprogramming.net/live-graph-twitter-sentiment-analysis-gui-dash-python/
