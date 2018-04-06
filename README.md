@@ -1,4 +1,4 @@
-# tweet-stream
+# Tweet-stream
 Performing Sentiment analysis on streaming tweets
 
 
