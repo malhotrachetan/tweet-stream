@@ -14,6 +14,7 @@ pandas = "*"
 streamz = "*"
 pandas-datareader = "*"
 textblob = "*"
+vadersentiment = "*"
 
 [dev-packages]
 
